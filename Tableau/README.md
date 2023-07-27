@@ -18,4 +18,6 @@
  - Определение кол-ва генерирующихся карточек источниками
  - Определение соотношения тем карточек с их источниками
 
+## Дашборд
 
+https://public.tableau.com/views/Yandex_Dzen_Kriulin/_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
